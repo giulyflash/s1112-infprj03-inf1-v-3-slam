@@ -1,0 +1,1 @@
+Website maken voor een pizzeria, waar je niet alleen zelf pizza's kan samenstellen, maar ook nog punten kan verzamelen als mensen jouw zelfgemaakte pizza's bestellen, waardoor je korting kan krijgen op je eigen pizza's of korting kan geven op de zelfgemaakte pizza's
